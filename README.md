@@ -75,7 +75,7 @@ python main.py --target [target domain or IP]
 
 ### Save Results as JSON
 ```bash
-python main.py --target [target domain or IP] --j
+python main.py --target [target domain or IP] -j
 ```
 
 ### Enable Stealth Mode
