@@ -44,7 +44,7 @@ reconfox/
 │   ├── cors.py
 │   ├── dirlisting.py
 │   ├── crawler.py
-│── results/             # Scan results (ignored in git)
+│── results/             # Scan results
 │── requirements.txt     # Python dependencies
 │── README.md            # Project documentation
 │── LICENSE              # Open-source license
@@ -59,10 +59,6 @@ reconfox/
 # Clone the repository
 git clone https://github.com/Lightsaber2/reconfox.git
 cd reconfox
-
-# (Optional) Create a virtual environment
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
