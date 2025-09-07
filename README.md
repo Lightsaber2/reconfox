@@ -111,7 +111,7 @@ Info Findings (9):
    - No XSS detected
    - No Open Redirect
    - No CORS headers
-   - Discovered URL: http://testphp.vulnweb.com
+   - Discovered URL: https://discoveredurl.com
 ```
 
 ---
